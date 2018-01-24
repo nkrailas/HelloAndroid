@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center_vertical"
+    android:background="@android:color/white"
+    tools:context="com.example.android.helloandroid.MainActivity" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-condensed"
+        android:gravity="center"
+        android:padding="8dp"
+        android:text="@string/app_banner"
+        android:textColor="#2196F3"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/headshot" />
+
+    <TextView  android:text="@string/app_address_city_state"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:gravity="center"
+        android:textColor="#2196F3"
+        android:textSize="24sp" />
+
+    <TextView    android:text="@string/app_phone_web"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:autoLink="phone|web"
+        android:fontFamily="sans-serif-condensed"
+        android:gravity="center"
+        android:textColor="#2196F3"
+        android:textSize="22sp" />
+
+</LinearLayout>
