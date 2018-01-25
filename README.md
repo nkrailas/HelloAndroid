@@ -1,6 +1,6 @@
 # HelloAndroid
 
-Grow with Google Scholarship 2018 - Android Basics
+Grow with Google Challenge Scholarship 2018 - Android Basics
 
 Lesson 5: Build a Single Screen App - Udacity Business Card
 
