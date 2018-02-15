@@ -4,7 +4,7 @@ Grow with Google Challenge Scholarship 2018 - Android Basics
 
 Lesson 5: Build a Single Screen App - Udacity Business Card
 
-Screenshot of Udacity Business Card - Portrait & Landscape: https://docs.google.com/document/d/1-vF5V-ZpPU1Aiwxiy9OAhUsmF4WfLBUZXP1nIh5HpuQ/edit?usp=sharing
+Screenshot - Portrait & Landscape: https://docs.google.com/document/d/1-vF5V-ZpPU1Aiwxiy9OAhUsmF4WfLBUZXP1nIh5HpuQ/edit?usp=sharing
 
 Project Rubric
 
